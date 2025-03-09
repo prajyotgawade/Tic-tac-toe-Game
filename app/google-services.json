@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865434545269",
+    "project_id": "tic-tac-online-game",
+    "storage_bucket": "tic-tac-online-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865434545269:android:a3851cd06c2f0c75fd5c3c",
+        "android_client_info": {
+          "package_name": "com.example.tictacgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiNMjq1xVvUtxOdOtHJaGLmPsXW79HFvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
